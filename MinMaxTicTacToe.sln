@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMaxTicTacToe", "MinMaxTicTacToe\MinMaxTicTacToe.csproj", "{405DC43C-2C72-498E-AE09-91724A84B90C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMaxModels", "MinMaxModels\MinMaxModels.csproj", "{799E779E-EF28-4E61-8413-9FE5B7025E65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{405DC43C-2C72-498E-AE09-91724A84B90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405DC43C-2C72-498E-AE09-91724A84B90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405DC43C-2C72-498E-AE09-91724A84B90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405DC43C-2C72-498E-AE09-91724A84B90C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799E779E-EF28-4E61-8413-9FE5B7025E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799E779E-EF28-4E61-8413-9FE5B7025E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799E779E-EF28-4E61-8413-9FE5B7025E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799E779E-EF28-4E61-8413-9FE5B7025E65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA1683F9-D15F-467D-B270-CF962A61F3A7}
+	EndGlobalSection
+EndGlobal
